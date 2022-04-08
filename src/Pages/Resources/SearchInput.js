@@ -18,6 +18,7 @@ const SearchInput = () => {
     'web',
     'public',
     'forge',
+    'bedrock',
     'fabric',
     'mod',
     'client',
