@@ -11,6 +11,7 @@ const SearchInput = () => {
     'speederscoders',
     'yumahisai',
     'dr4aky',
+    'redboy',
     'threewhi',
     'paper',
     'spigot',
