@@ -22,6 +22,12 @@ export default [
     name: "RedBoy",
     userId: "EURedBoy",
     avatar: "https://avatars0.githubusercontent.com/u/69308679?s=400&u=7ee96b166eba6a3552aef0f9496271c5b13adb7a&v=4"
+  },
+  {
+    id: 5,
+    name: "ThatDude",
+    userId: "ThatDudeOnMc",
+    avatar: "https://avatars0.githubusercontent.com/u/103662327?s=400&u=7ee96b166eba6a3552aef0f9496271c5b13adb7a&v=4"
   }
 
 ]

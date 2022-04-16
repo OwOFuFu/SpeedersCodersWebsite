@@ -13,6 +13,7 @@ const SearchInput = () => {
     'dr4aky',
     'redboy',
     'threewhi',
+    'thatdudeonmc',
     'paper',
     'spigot',
     'java',
