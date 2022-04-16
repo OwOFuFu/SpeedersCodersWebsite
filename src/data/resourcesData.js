@@ -20,5 +20,16 @@ export default [
     repoOwnerName: 'yumahisai',
     repoOwner: 'YumaHisai',
     category: ['plugin', 'java', 'paper', 'public', 'yumahisai'],
+  },
+  {
+    id: 3,
+    link:
+      'https://raw.githubusercontent.com/YumaHisai/SkyWarsPlus/master/README.md',
+    repoName: 'SkyWarsPlus',
+    description:
+      'Addon for skyblock servers (implements the functionality of TheHive skywars) compatible with all skywars plugins',
+    repoOwnerName: 'yumahisai',
+    repoOwner: 'YumaHisai',
+    category: ['plugin', 'java', 'paper', 'api', 'public', 'yumahisai'],
   }
 ];
