@@ -31,5 +31,16 @@ export default [
     repoOwnerName: 'yumahisai',
     repoOwner: 'YumaHisai',
     category: ['plugin', 'java', 'paper', 'api', 'public', 'yumahisai'],
+  },
+  {
+    id: 4,
+    link:
+      'https://raw.githubusercontent.com/YumaHisai/ThunderAuthentication/master/README.md',
+    repoName: 'ThunderAuthentication',
+    description:
+      'Premium Authentication Plugin',
+    repoOwnerName: 'yumahisai',
+    repoOwner: 'YumaHisai',
+    category: ['plugin', 'java', 'paper', 'api', 'public', 'yumahisai'],
   }
 ];
