@@ -42,5 +42,16 @@ export default [
     repoOwnerName: 'yumahisai',
     repoOwner: 'YumaHisai',
     category: ['plugin', 'java', 'paper', 'api', 'public', 'yumahisai'],
-  }
+  },
+  {
+    id: 5,
+    link:
+      'https://raw.githubusercontent.com/YumaHisai/BrainFuckTranslator/master/README.md',
+    repoName: 'BrainFuckTranslator',
+    description:
+      'BrainFuck Decoder In Java',
+    repoOwnerName: 'yumahisai',
+    repoOwner: 'YumaHisai',
+    category: ['java', 'public', 'yumahisai'],
+  },
 ];
