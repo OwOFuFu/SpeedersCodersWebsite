@@ -54,4 +54,15 @@ export default [
     repoOwner: 'YumaHisai',
     category: ['java', 'public', 'yumahisai'],
   },
+  {
+    id: 6,
+    link:
+      'https://raw.githubusercontent.com/YumaHisai/ScreenShare/master/README.md',
+    repoName: 'ScreenShare',
+    description:
+      'ScreenShare With License System (1.16.5)',
+    repoOwnerName: 'yumahisai',
+    repoOwner: 'YumaHisai',
+    category: ['plugin', 'java', 'spigot', 'api', 'public', 'yumahisai'],
+  }
 ];
